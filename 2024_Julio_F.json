@@ -1,11 +1,11 @@
 [
 	{"alumno":"Cristina Domínguez Domínguez","nota":7.09,"ranking":10},
 	{"alumno":"Juan","nota":4,"ranking":20},
-	{"alumno":"A","nota":9.5,"ranking":40},
-	{"alumno":"B","nota":7.75,"ranking":50},
-	{"alumno":"C","nota":9,"ranking":1},
-	{"alumno":"D","nota":6,"ranking":15},
-	{"alumno":"E","nota":2.5,"ranking":23},
-	{"alumno":"F","nota":5.2,"ranking":45},
-	{"alumno":"G","nota":10,"ranking":51}
+	{"alumno":"María","nota":9.5,"ranking":40},
+	{"alumno":"José","nota":7.75,"ranking":50},
+	{"alumno":"Miguel","nota":9,"ranking":1},
+	{"alumno":"Ángel","nota":6,"ranking":15},
+	{"alumno":"Rocio","nota":2.5,"ranking":23},
+	{"alumno":"Alberto","nota":5.2,"ranking":45},
+	{"alumno":"Marta","nota":10,"ranking":51}
 ]

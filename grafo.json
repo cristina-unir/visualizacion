@@ -1,9 +1,9 @@
 {
   "nodes": [
-    {"id": "Martha", "group": 1},
+    {"id": "María", "group": 1},
     {"id": "Cristina", "group": 1},
-    {"id": "Pedro", "group": 1},
-    {"id": "Camilia", "group": 1},
+    {"id": "Miguel", "group": 1},
+    {"id": "Carol", "group": 1},
     {"id": "Matemáticas", "group": 2},
     {"id": "Geometría", "group": 2},
     {"id": "Física", "group": 3},
@@ -14,15 +14,15 @@
     {"id": "Artes", "group": 6}
   ],
   "links": [
-    {"source": "Martha", "target": "Matemáticas", "value": 20},
-	{"source": "Martha", "target": "Geometría", "value": 20},
-	{"source": "Martha", "target": "Artes", "value": 20},
+    {"source": "María", "target": "Matemáticas", "value": 20},
+	{"source": "María", "target": "Geometría", "value": 20},
+	{"source": "María", "target": "Artes", "value": 20},
 	{"source": "Cristina", "target": "Química", "value": 20},
 	{"source": "Cristina", "target": "Física", "value": 20},
 	{"source": "Cristina", "target": "Matemáticas", "value": 20},
-	{"source": "Camila", "target": "CienciasSociales", "value": 20},
-	{"source": "Camila", "target": "Artes", "value": 20},
-	{"source": "Pedro", "target": "Lenguaje", "value": 20},
-	{"source": "Pedro", "target": "Historia", "value": 20}
+	{"source": "Carol", "target": "CienciasSociales", "value": 20},
+	{"source": "Carol", "target": "Artes", "value": 20},
+	{"source": "Miguel", "target": "Lenguaje", "value": 20},
+	{"source": "Miguel", "target": "Historia", "value": 20}
   ]
 }

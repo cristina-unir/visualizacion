@@ -22,7 +22,9 @@
 	{"source": "Cristina", "target": "Matemáticas", "value": 20},
 	{"source": "Carol", "target": "CienciasSociales", "value": 20},
 	{"source": "Carol", "target": "Artes", "value": 20},
+	{"source": "Carol", "target": "Historia", "value": 20},
 	{"source": "Miguel", "target": "Lenguaje", "value": 20},
+	{"source": "Miguel", "target": "Artes", "value": 20},
 	{"source": "Miguel", "target": "Historia", "value": 20}
   ]
 }

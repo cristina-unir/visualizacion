@@ -31,7 +31,6 @@
 		{"source": "Cristina", "target": "Jorge", "value": 5},
 		{"source": "Cristina", "target": "Rocio", "value": 10},
 		{"source": "Cristina", "target": "Pilar", "value": 2},
-        {"source": "Maria", "target": "Carolina", "value": 20},
 		{"source": "Maria", "target": "Miguel", "value": 20},
 		{"source": "Fernando", "target": "Francisco", "value": 5},
 		{"source": "Jorge", "target": "Pedro", "value": 2},

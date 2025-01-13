@@ -1,0 +1,33 @@
+{
+	"nodes": [
+		{"id": "Cristina", "group": 1},
+		{"id": "Rocio", "group": 2},
+		{"id": "Maria", "group": 2},
+		{"id": "Carolina", "group": 2},
+		{"id": "Marta", "group": 2},
+		{"id": "Lola", "group": 2},
+		{"id": "Pilar", "group": 2},
+		{"id": "Francisco", "group": 3},
+		{"id": "Miguel", "group": 3},
+		{"id": "Alberto", "group": 3},
+		{"id": "Angel", "group": 3},
+		{"id": "Juanjo", "group": 3},
+		{"id": "Luis", "group": 3},
+		{"id": "Fernando", "group": 3},
+		{"id": "Pedro", "group": 3}
+	],
+	"links": [
+		{"source": "Cristina", "target": "Maria"},
+		{"source": "Rocio", "target": "Marta"},
+		{"source": "Maria", "target": "Miguel"},
+		{"source": "Carolina", "target": "Cristina"},
+		{"source": "Marta", "target": "Alberto"},
+		{"source": "Lola", "target": "Juanjo"},
+		{"source": "Pilar", "target": "Juanjo"},
+		{"source": "Francisco", "target": "Fernando"},
+		{"source": "Angel", "target": "Juanjo"},
+		{"source": "Luis", "target": "Pedro"},
+		{"source": "Fernando", "target": "Cristina"},
+		{"source": "Pedro", "target": "Cristina"}
+	]
+}

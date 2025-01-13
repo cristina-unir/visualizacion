@@ -28,8 +28,8 @@
 		{"source": "Cristina", "target": "Pedro", "value": 2},
 		{"source": "Cristina", "target": "Francisco", "value": 5},
 		{"source": "Cristina", "target": "Lola", "value": 20},
-		{"source": "Cristina", "target": "Pilar", "value": 5},
-		{"source": "Cristina", "target": "Luis", "value": 2},
-		{"source": "Cristina", "target": "Rocio", "value": 10}
+		{"source": "Cristina", "target": "Luis", "value": 20},
+		{"source": "Cristina", "target": "Rocio", "value": 20},
+		{"source": "Cristina", "target": "Pilar", "value": 20}
 	]
 }

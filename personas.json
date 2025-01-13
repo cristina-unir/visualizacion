@@ -17,17 +17,19 @@
 		{"id": "Pedro", "group": 3}
 	],
 	"links": [
-		{"source": "Cristina", "target": "Maria"},
-		{"source": "Rocio", "target": "Marta"},
-		{"source": "Maria", "target": "Miguel"},
-		{"source": "Carolina", "target": "Cristina"},
-		{"source": "Marta", "target": "Alberto"},
-		{"source": "Lola", "target": "Juanjo"},
-		{"source": "Pilar", "target": "Juanjo"},
-		{"source": "Francisco", "target": "Fernando"},
-		{"source": "Angel", "target": "Juanjo"},
-		{"source": "Luis", "target": "Pedro"},
-		{"source": "Fernando", "target": "Cristina"},
-		{"source": "Pedro", "target": "Cristina"}
+		{"source": "Cristina", "target": "Maria", "value": 20},
+		{"source": "Cristina", "target": "Marta", "value": 10},
+		{"source": "Cristina", "target": "Miguel", "value": 20},
+		{"source": "Cristina", "target": "Carolina", "value": 20},
+		{"source": "Cristina", "target": "Alberto", "value": 10},
+		{"source": "Cristina", "target": "Juanjo", "value": 10},
+		{"source": "Cristina", "target": "Angel", "value": 10},
+		{"source": "Cristina", "target": "Fernando", "value": 5},
+		{"source": "Cristina", "target": "Pedro", "value": 2},
+		{"source": "Cristina", "target": "Francisco", "value": 5},
+		{"source": "Cristina", "target": "Lola", "value": 20},
+		{"source": "Cristina", "target": "Pilar", , "value": 5},
+		{"source": "Cristina", "target": "Luis", "value": 2},
+		{"source": "Cristina", "target": "Rocio", "value": 10}
 	]
 }

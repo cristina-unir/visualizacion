@@ -12,7 +12,7 @@
 		{"id": "Alberto", "group": 3},
 		{"id": "Angel", "group": 3},
 		{"id": "Juanjo", "group": 3},
-		{"id": "Jorge", "group": 3},
+		{"id": "Luis", "group": 3},
 		{"id": "Fernando", "group": 3},
 		{"id": "Pedro", "group": 3}
 	],
@@ -28,13 +28,8 @@
 		{"source": "Cristina", "target": "Pedro", "value": 2},
 		{"source": "Cristina", "target": "Francisco", "value": 5},
 		{"source": "Cristina", "target": "Lola", "value": 20},
-		{"source": "Cristina", "target": "Jorge", "value": 5},
-		{"source": "Cristina", "target": "Rocio", "value": 10},
-		{"source": "Cristina", "target": "Pilar", "value": 2},
-		{"source": "Maria", "target": "Miguel", "value": 20},
-		{"source": "Fernando", "target": "Francisco", "value": 5},
-		{"source": "Jorge", "target": "Pedro", "value": 2},
-		{"source": "Fernando", "target": "Francisco", "value": 5}
-		
+		{"source": "Cristina", "target": "Luis", "value": 20},
+		{"source": "Cristina", "target": "Rocio", "value": 20},
+		{"source": "Cristina", "target": "Pilar", "value": 20}
 	]
 }
